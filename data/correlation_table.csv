@@ -1,9 +1,9 @@
-,#,Variable,1,2,3,4,5,6,7,8
+,№,Variable,1.,2.,3.,4.,5.,6.,7.,8.
 Household_Income,1,Household_Income,,,,,,,,
-Social_Circle_Mean_Income,2,Social_Circle_Mean_Income,.475***,,,,,,,
-Population_Mean_Income,3,Population_Mean_Income,.187**,.342***,,,,,,
-Social_Circle_Inequality_Gini_Index,4,Social_Circle_Inequality_Gini_Index,-.124*,-.105,-.094,,,,,
-Population_Inequality_Gini_Index,5,Population_Inequality_Gini_Index,-.073,-.148**,-.045,.205***,,,,
-fairness_and_satisfaction,6,fairness_and_satisfaction,.183**,.240***,.172**,-.075,-.157**,,,
-support_for_redistribution,7,support_for_redistribution,-.213***,-.252***,-.177**,.058,.149**,-.700***,,
-Political_Preference,8,Political_Preference,.152**,.147*,-.011,-.054,-.140*,.421***,-.570***,
+Social_Circle_Mean_Income,2,Social_Circle_Mean_Income,.48***,,,,,,,
+Population_Mean_Income,3,Population_Mean_Income,.19**,.34***,,,,,,
+Social_Circle_Inequality_Gini_Index,4,Social_Circle_Inequality_Gini_Index,-.12*,-.10,-.09,,,,,
+Population_Inequality_Gini_Index,5,Population_Inequality_Gini_Index,-.07,-.15**,-.04,.21***,,,,
+fairness_and_satisfaction,6,fairness_and_satisfaction,.18**,.24***,.17**,-.08,-.16**,,,
+support_for_redistribution,7,support_for_redistribution,-.21***,-.25***,-.18**,.06,.15**,-.70***,,
+Political_Preference,8,Political_Preference,.15**,.15*,-.01,-.05,-.14*,.42***,-.57***,
